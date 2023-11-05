@@ -1,5 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 
+/**
+ * ツールバーコンポーネント
+ */
 @Component({
   selector: 'app-toolbar',
   templateUrl: './toolbar.component.html',
