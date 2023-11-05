@@ -1,7 +1,8 @@
 {
   "name": "test-ionic-project",
+  "type": "angular",
+  "id": "tes-ionic-project",
   "integrations": {
     "capacitor": {}
-  },
-  "type": "angular"
+  }
 }
